@@ -228,4 +228,4 @@
 
 ---
 
-_Built by Abhishek Chhetri — 🤖 AI/ML Explorer | 📊 Data Science Learner | ⚡ Vajra by intent_
+🤖 | 📊 | ⚡
